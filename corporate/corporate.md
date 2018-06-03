@@ -1,22 +1,24 @@
-theme: Think Stack
-text: Open Sans,#364044
-text-strong: Open Sans Bold,#242E33
-text-emphasis: Open Sans,#364044
-header: Oswald Light,#364044
-header-strong: Oswald Light,#242E33
-header-emphasis: Oswald,#364044
-background-color: #FFFFFF
-table-separator-color: #95A7AF
-footer: © 2018 Think Stack Limited [http://thinkstack.io](http://thinkstack.io)
+theme: Think Stack Limited (Simple)
+footer: © 2018 Think Stack Limited [thinkstack.io](http://thinkstack.io)
 slidenumbers: true
+
+# Log aggregation
+# [fit] using Elasticsearch, Fluentd/Fluentbit and Kibana
+# \(EFK\)
+
+[.hide-footer]
+[.slidenumbers: false]
 
 ---
 
-# [fit] Log aggregation
-# [fit] using Elasticsearch, Fluentd/Fluentbit and Kibana
-# [fit] (EFK) 
+# Who's this guy?
 
-[.slidenumbers: false]
 ![original](assets/background.png)
 
 ---
+
+# What I'm covering
+
+---
+
+# What's not being discussed
